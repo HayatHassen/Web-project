@@ -171,56 +171,5 @@ h3{
   .container1 a:hover{
     color: white;
   }
-.cont{
-    width: 1140px;
-    height: 100hv;
-    margin: auto;
 
-}
-.cont h1{
-    font-size: 50px;
-    font-weight: bold;
-    color: #fe5f55;
-    text-align: center;
-    margin-top: 70px;
-
-}
-.content{
-    width: 50%;
-    float: left;
-    margin-top: 100px;   
-}
-.content h2{
-    width: 450px;
-    text-align: justify;
-    font-size: 40px;
-    color: #fe5f55;
-
-}
-.content p{
-    width: 45opx;
-    text-align: justify;
-    margin-top: 18px;
-    font-size: 18px;
-
-}
-button{
-    font-size: 18px;
-    margin-top: 25px;
-    background: #fe5f55;
-    color: white;
-    border: none;
-    padding: 9px 20px;
-    border-radius: 15px;
-    cursor: pointer;
-
-}
-.picture img{
-    float: right;
-    overflow: none;
-    width: 400px;
-    height: 300px;
-    border-radius: 15px;
-
-}
 
